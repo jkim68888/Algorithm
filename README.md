@@ -2,8 +2,9 @@
 
 스위프트 알고리즘 풀이
 
-## 연습문제 Lv.1
+## 프로그래머스 연습문제 Lv.1
 
+- [문자열 내 마음대로 정렬하기](./프로그래머스/연습문제/Lv1/lessons12915.playground/Contents.swift)
 - [서울에서 김서방 찾기](./프로그래머스/연습문제/Lv1/lessons12919.playground/Contents.swift)
 - [하샤드 수](./프로그래머스/연습문제/Lv1/lessons12947.playground/Contents.swift)
 - [정수 내림차순으로 배치하기](./프로그래머스/연습문제/Lv1/lessons12933.playground/Contents.swift)
