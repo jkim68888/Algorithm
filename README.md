@@ -12,3 +12,6 @@
 - [콜라츠 추측](./프로그래머스/연습문제/Lv1/lessons12943.playground/Contents.swift)
 - [나누어 떨어지는 숫자](./프로그래머스/연습문제/Lv1/lessons12910.playground/Contents.swift)
 - [제일 작은 수 제거하기](./프로그래머스/연습문제/Lv1/lessons12935.playground/Contents.swift)
+
+## 프로그래머스 코딩테스트 입문 Lv.0
+- [인덱스 바꾸기](./프로그래머스/연습문제/Lv0/lessons120895.playground/Contents.swift)
