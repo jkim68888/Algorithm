@@ -14,4 +14,8 @@
 - [제일 작은 수 제거하기](./프로그래머스/연습문제/Lv1/lessons12935.playground/Contents.swift)
 
 ## 프로그래머스 코딩테스트 입문 Lv.0
+
+- [7의 개수](./프로그래머스/연습문제/Lv0/lessons120912.playground/Contents.swift)
+- [OX퀴즈](./프로그래머스/연습문제/Lv0/lessons120907.playground/Contents.swift)⭐️
+- [세균 증식](./프로그래머스/연습문제/Lv0/lessons120910.playground/Contents.swift)
 - [인덱스 바꾸기](./프로그래머스/연습문제/Lv0/lessons120895.playground/Contents.swift)
