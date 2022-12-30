@@ -15,6 +15,7 @@
 
 ## 프로그래머스 코딩테스트 입문 Lv.0
 
+- [문자열 밀기](./프로그래머스/연습문제/Lv0/lessons120921.playground/Contents.swift)
 - [7의 개수](./프로그래머스/연습문제/Lv0/lessons120912.playground/Contents.swift)
 - [OX퀴즈](./프로그래머스/연습문제/Lv0/lessons120907.playground/Contents.swift)⭐️
 - [세균 증식](./프로그래머스/연습문제/Lv0/lessons120910.playground/Contents.swift)
