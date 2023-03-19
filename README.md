@@ -2,6 +2,10 @@
 
 스위프트 알고리즘 풀이
 
+## 프로그래머스 연습문제 Lv.2
+- [삼각 달팽이](./프로그래머스/연습문제/Lv2/lessons68645.playground/Contents.swift)
+- [쿼드압축 후 개수 세기](./프로그래머스/연습문제/Lv2/lessons68936.playground/Contents.swift)
+
 ## 프로그래머스 연습문제 Lv.1
 
 - [자릿수 더하기](./프로그래머스/연습문제/Lv1/lessons12931.playground/Contents.swift)
