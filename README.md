@@ -1,12 +1,17 @@
-# Algorithm
-
 스위프트 알고리즘 풀이
 
-## 프로그래머스 연습문제 Lv.2
+# 프로그래머스 
+
+## Lv.2
+
+### 월간코드챌린지 시즌1
+
 - [삼각 달팽이](./프로그래머스/연습문제/Lv2/lessons68645.playground/Contents.swift)
 - [쿼드압축 후 개수 세기](./프로그래머스/연습문제/Lv2/lessons68936.playground/Contents.swift)
 
-## 프로그래머스 연습문제 Lv.1
+## Lv.1
+
+### 연습문제
 
 - [자릿수 더하기](./프로그래머스/연습문제/Lv1/lessons12931.playground/Contents.swift)
 - [문자열 내 마음대로 정렬하기](./프로그래머스/연습문제/Lv1/lessons12915.playground/Contents.swift)
@@ -17,7 +22,7 @@
 - [나누어 떨어지는 숫자](./프로그래머스/연습문제/Lv1/lessons12910.playground/Contents.swift)
 - [제일 작은 수 제거하기](./프로그래머스/연습문제/Lv1/lessons12935.playground/Contents.swift)
 
-## 프로그래머스 코딩테스트 입문 Lv.0
+## Lv.0
 
 - [영어가 싫어요](./프로그래머스/연습문제/Lv0/lessons120894.playground/Contents.swift)
 - [문자열 밀기](./프로그래머스/연습문제/Lv0/lessons120921.playground/Contents.swift)
