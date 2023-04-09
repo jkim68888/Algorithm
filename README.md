@@ -24,6 +24,8 @@
 
 ## Lv.0
 
+- [연속된 수의 합](./프로그래머스/연습문제/Lv0/lessons120923.playground/Contents.swift)
+- [종이 자르기](./프로그래머스/연습문제/Lv0/lessons120922.playground/Contents.swift)
 - [영어가 싫어요](./프로그래머스/연습문제/Lv0/lessons120894.playground/Contents.swift)
 - [문자열 밀기](./프로그래머스/연습문제/Lv0/lessons120921.playground/Contents.swift)
 - [7의 개수](./프로그래머스/연습문제/Lv0/lessons120912.playground/Contents.swift)
