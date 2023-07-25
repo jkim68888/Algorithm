@@ -24,6 +24,7 @@
 
 ## Lv.0
 
+- [캐릭터의 좌표](./프로그래머스/연습문제/Lv0/lessons120861.playground/Contents.swift)
 - [연속된 수의 합](./프로그래머스/연습문제/Lv0/lessons120923.playground/Contents.swift)
 - [종이 자르기](./프로그래머스/연습문제/Lv0/lessons120922.playground/Contents.swift)
 - [영어가 싫어요](./프로그래머스/연습문제/Lv0/lessons120894.playground/Contents.swift)
