@@ -1,5 +1,8 @@
 import Foundation
 
+// 분수의 덧셈
+// https://school.programmers.co.kr/learn/courses/30/lessons/120808
+
 func solution(_ numer1:Int, _ denom1:Int, _ numer2:Int, _ denom2:Int) -> [Int] {
 	var newNumer: Int = 0
 	var newDenom: Int = 0
