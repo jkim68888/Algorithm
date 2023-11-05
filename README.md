@@ -11,8 +11,7 @@
 
 ## Lv.1
 
-### 연습문제
-
+- [부족한 금액 계산하기](./프로그래머스/연습문제/Lv1/lessons82612.playground/Contents.swift)
 - [삼총사](./프로그래머스/연습문제/Lv1/lessons131705.playground/Contents.swift)
 - [자릿수 더하기](./프로그래머스/연습문제/Lv1/lessons12931.playground/Contents.swift)
 - [문자열 내 마음대로 정렬하기](./프로그래머스/연습문제/Lv1/lessons12915.playground/Contents.swift)
