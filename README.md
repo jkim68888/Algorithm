@@ -11,6 +11,11 @@
 
 ## Lv.1
 
+### 2023 KAKAO BLIND RECRUITMENT
+- [개인정보 수집 유효기간](./Programmers/Lv1/lessons150370.playground/Contents.swift)
+
+### 연습문제
+
 - [부족한 금액 계산하기](./Programmers/Lv1/lessons82612.playground/Contents.swift)
 - [삼총사](./Programmers/Lv1/lessons131705.playground/Contents.swift)
 - [자릿수 더하기](./Programmers/Lv1/lessons12931.playground/Contents.swift)
