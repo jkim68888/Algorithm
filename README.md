@@ -12,6 +12,7 @@
 ## Lv.1
 
 ### 2023 KAKAO BLIND RECRUITMENT
+
 - [개인정보 수집 유효기간](./Programmers/Lv1/lessons150370.playground/Contents.swift)
 
 ### 연습문제
@@ -47,3 +48,7 @@
 ### Lv.5
 
 - [킹, 퀸, 룩, 비숍, 나이트, 폰](./BaekJoon/Bronze/Lv5/lessons3003/lessons3003/main.swift)
+
+### Lv.3
+
+- [과제 안 내신 분..?](./BaekJoon/Bronze/Lv3/problem5597/problem5597/main.swift)
