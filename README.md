@@ -15,6 +15,10 @@
 
 - [개인정보 수집 유효기간](./Programmers/Lv1/lessons150370.playground/Contents.swift)
 
+### 월간코드챌린지 시즌3
+
+- [나머지가 1이 되는 수 찾기](./Programmers/Lv1/lessons87389.swift)
+
 ### 연습문제
 
 - [부족한 금액 계산하기](./Programmers/Lv1/lessons82612.playground/Contents.swift)
