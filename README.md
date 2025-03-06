@@ -17,7 +17,7 @@
 
 ### 월간코드챌린지 시즌3
 
-- [나머지가 1이 되는 수 찾기](./Programmers/Lv1/lessons87389.swift)
+- [나머지가 1이 되는 수 찾기](./Programmers/Lv1/)
 
 ### 연습문제
 
@@ -44,6 +44,7 @@
 - [세균 증식](./Programmers/Lv0/lessons120910.playground/Contents.swift)
 - [인덱스 바꾸기](./Programmers/Lv0/lessons120895.playground/Contents.swift)
 - [분수의 덧셈](./Programmers/Lv0/lessons120808.playground/Contents.swift)
+- [가위 바위 보](./Programmers/Lv0/lessons120839.swift)
 
 # 백준
 
