@@ -2,19 +2,12 @@
 
 ## Lv.2
 
-### 월간코드챌린지 시즌1
-
 - [삼각 달팽이](./Programmers/Lv2/lessons68645.playground/Contents.swift)
 - [쿼드압축 후 개수 세기](./Programmers/Lv2/lessons68936.playground/Contents.swift)
 
 ## Lv.1
 
-### 2023 KAKAO BLIND RECRUITMENT
-
 - [개인정보 수집 유효기간](./Programmers/Lv1/lessons150370.playground/Contents.swift)
-
-### 월간코드챌린지 시즌3
-
 - [나머지가 1이 되는 수 찾기](./Programmers/Lv1/)
 
 ## Lv.0
@@ -40,6 +33,7 @@
 - [인덱스 바꾸기](./Programmers/Lv0/lessons120895.playground/Contents.swift)
 - [분수의 덧셈](./Programmers/Lv0/lessons120808.playground/Contents.swift)
 - [가위 바위 보](./Programmers/Lv0/lessons120839.swift)
+- [제곱근 판별](./Programmers/Lv0/lessons120909.js)
 
 # 백준
 
