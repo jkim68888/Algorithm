@@ -17,7 +17,7 @@
 
 - [나머지가 1이 되는 수 찾기](./Programmers/Lv1/)
 
-### 연습문제
+## Lv.0
 
 - [부족한 금액 계산하기](./Programmers/Lv1/lessons82612.playground/Contents.swift)
 - [삼총사](./Programmers/Lv1/lessons131705.playground/Contents.swift)
@@ -29,9 +29,6 @@
 - [콜라츠 추측](./Programmers/Lv1/lessons12943.playground/Contents.swift)
 - [나누어 떨어지는 숫자](./Programmers/Lv1/lessons12910.playground/Contents.swift)
 - [제일 작은 수 제거하기](./Programmers/Lv1/lessons12935.playground/Contents.swift)
-
-## Lv.0
-
 - [캐릭터의 좌표](./Programmers/Lv0/lessons120861.playground/Contents.swift)
 - [연속된 수의 합](./Programmers/Lv0/lessons120923.playground/Contents.swift)
 - [종이 자르기](./Programmers/Lv0/lessons120922.playground/Contents.swift)
