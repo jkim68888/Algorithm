@@ -12,6 +12,7 @@
 
 ## Lv.0
 
+- 제곱근 판별 [JS](./Programmers/Lv0/lessons120909.js) [Swift](./Programmers/Lv0/lessons120909.swift)
 - [부족한 금액 계산하기](./Programmers/Lv1/lessons82612.playground/Contents.swift)
 - [삼총사](./Programmers/Lv1/lessons131705.playground/Contents.swift)
 - [자릿수 더하기](./Programmers/Lv1/lessons12931.playground/Contents.swift)
@@ -33,7 +34,6 @@
 - [인덱스 바꾸기](./Programmers/Lv0/lessons120895.playground/Contents.swift)
 - [분수의 덧셈](./Programmers/Lv0/lessons120808.playground/Contents.swift)
 - [가위 바위 보](./Programmers/Lv0/lessons120839.swift)
-- [제곱근 판별](./Programmers/Lv0/lessons120909.js)
 
 # 백준
 
