@@ -11,6 +11,7 @@
 
 ## Lv.0
 
+- [가위 바위 보](./Programmers/Lv0/lessons120839.js)
 - 제곱근 판별 [JS](./Programmers/Lv0/lessons120909.js) [Swift](./Programmers/Lv0/lessons120909.swift)
 - [부족한 금액 계산하기](./Programmers/Lv0/lessons82612.playground/Contents.swift)
 - [삼총사](./Programmers/Lv0/lessons131705.playground/Contents.swift)
